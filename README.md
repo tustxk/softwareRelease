@@ -1,1 +1,1 @@
-# softwareRelease
+SEAI_106M0_32G_20170829-1821
